@@ -15,7 +15,7 @@ Please click on the links below for public cloud specific solutions:
 - [Azure](./Azure/README.md)
 - [Google](./Google/README.md)
 - [Oracle](./Oracle/README.md)
-- [Terraform Modules](./terrform-modules/README.md) 
+- [Terraform Modules](https://github.com/40netse/terraform-modules/blob/main/README.md) 
   
 ## Support
 

@@ -1,6 +1,10 @@
 # vscode
 *.code-workspace
-
+**/AWS
+**/Azure
+**/Google
+**/Oracle
+**/terraform-modules
 # .DS_Store
 .DS_Store
 **/.DS_Store

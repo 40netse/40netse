@@ -5,27 +5,32 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
 
   - FortiAnalyzer Standalone
       - [CloudFormation](https://github.com/hgaberra/fortianalyzer-aws-standalone-cloudformation)
-	  - Terraform
+      - Terraform
   - FortiAnalyzer HA Single AZ
       - [CloudFormation](https://github.com/hgaberra/fortianalyzer-aws-ha-singleaz-cloudformation)
-	  - Terraform
+      - Terraform
   - FortiManager Standalone
       - [CloudFormation](https://github.com/hgaberra/fortimanager-aws-standalone-cloudformation)
-	  - Terraform
+      - [Terraform](https://github.com/40netse/fortimanager_existing_vpc.git)
   - FortiGate Standalone
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
-	  - Terraform
+      - [Terraform](https://github.com/40netse/single_fortigate_vpc.git)
 
   - FortiGate FGCP HA Dual AZ
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-dualaz-cloudformation)
-	  - [Terraform](https://github.com/40netse/fgcp_ha_tgw_ew_attachments.git)
+      - [Terraform](https://github.com/40netse/fgcp_ha_tgw_ew_attachments.git)
   - FortiGate FGCP HA Single AZ
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-singleaz-cloudformation)
+      - Terraform
   - FortiGate & Gateway Load Balancer
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-gwlb-cloudformation)
-	  - Terraform
+      - Terraform
   - FortiGate Active-Active & Transit Gateway Connect
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-tgwconnect-active-active-cloudformation)
+      - Terraform
+  - FortiGate FGCP HA Dual AZ & Transit Gateway Attachments
+    - CloudFormation
+    - [Terraform](https://github.com/40netse/fgcp_ha_tgw_ew_attachments.git)
   - FortiGate FGCP HA Dual AZ & Transit Gateway Connect
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-tgwconnect-ha-dualaz-cloudformation)
   - FortiGate Auto Scale

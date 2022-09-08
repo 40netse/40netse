@@ -27,7 +27,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - Terraform
   - FortiGate Active-Active & Transit Gateway Connect
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-tgwconnect-active-active-cloudformation)
-      - Terraform
+      - [Terraform](https://github.com/40netse/fortigate_aa_dual_az.git)
   - FortiGate FGCP HA Dual AZ & Transit Gateway Attachments
     - CloudFormation
     - [Terraform](https://github.com/40netse/fgcp_ha_tgw_ew_attachments.git)

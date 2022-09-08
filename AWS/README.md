@@ -45,3 +45,5 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [CloudFormation](https://github.com/hgaberra/fortigate-fortiadc-forticwp-aws-kubernetes-integration-cloudformation)
   - FortiGate & FortiTester NGFW Performance Test
       - [CloudFormation](https://github.com/hgaberra/fortigate-fortitester-aws-ngfw-performance-test-cloudformation)
+  - Create Ubuntu Instance that runs Terraform
+    -  [CloudFormation](https://github.com/40netse/cloudformation_create_linux_terraform_instance.git)
